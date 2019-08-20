@@ -1,2 +1,1 @@
-# course-rxjs
-Course of Reactive Extensions Library for JavaScript
+# Course rxjs - Reactive Extensions Library for JavaScript
